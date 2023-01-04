@@ -1,0 +1,1884 @@
+{
+    "animes": [
+        {
+            "name": "--------------------",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Death March to the Parallel World Rhapsody ",
+            "rating": 6.64,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Harem"
+            ],
+            "mal_id": 34497
+        },
+        {
+            "name": "World Teacher: Isekaishiki Kyouiku Agent ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The villagers of level 999 ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Evil Dragon Reincarnation ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Re:Monster ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "I've Been Killing Slimes for 300 Years (Slime Taoshite) ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Arafoo Kenja no Isekai Seikatsu Nikki ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "World Customize Creator ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Reincarnated Vampire Wants an Afternoon Nap ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The New Gate ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Nidome no Jinsei wo Isekai de ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "A Wild Last Boss Appeared! ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "I Said Make My Abilities Average! ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Kuro no Souzou Shoukanshi ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Shikkaku Mon no Saikyou Kenja ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Isekai Cheat Magician ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Skeleton Knight in Another World ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Tensei Kenja no Isekai Raifu ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Kenja no Mago ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "She Professed as Sage's Pupil ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "So I'm a Spider, So What? ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Zero kara Hajimeru ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Hachi-nan tte, Sore wa Nai deshou! ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Mushoku Tensei: Jobless Reincarnation ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "From Commonplace to World's Strongest ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Yuusha Yonin ni Makikomareta Unique Cheat ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Moon-led Journey Across Another World ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Different World Magic Is Too Behind! ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Tsuyokute New Saga ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Mage Will Master Magic Efficiently in his Second Life ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Farming Life in Another World ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "I applied as a swordsman, but my magic aptitude is 9999?! ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Makikomarete Isekai Teni suru Yatsu wa, Taitei Cheat ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Dungeon Seeker ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Ultimate Antihero ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Tensei Shitara Ken Deshita ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Tensei Shi Chatta Yo ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Hiraheishi wa Kako wo Yumemiru ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Yankee Wa Isekai De Seirei Ni Aisaremasu ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Tales of Demons and Gods ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Ore no Ie ga Maryoku Spot datta Ken ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Butsuri-san de Musou shitetara Motemote ni Narimashita ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Magi Craft Meister ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Isekai ni Tobasareta Ossan wa Doko e Iku? ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Tensei Kizoku no Isekai  ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "it Seems the Strongest Job is Not Hero nor Sage, but Inspector ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Archenemy & Hero - Maoyuu Maou Yuusha ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Legendary Moonlight Sculptor ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Douyara Watashi No Karada Wa ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Accomplishments of the Duke\u2019s Daughter ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Maou ni Natta node ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Sayounara Ryuusei ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Kuma Kuma Kuma Bear ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Saikyou no Shuzoku ga Ningen Datta Ken ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Greatest Magicmaster's Retirement Plan ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Isekai Meikyuu de Harem wo ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Tanaka The Wizard ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "My Status as an Assassin Obviously Exceeds the Brave's ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Simple-Looking Sword Saint is Nevertheless the Strongest ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Death Mage Who Doesn't Want a Fourth Time ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Kuro no Shoukanshi ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Hakoniwa Oukoku ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Kamitachi ni Hirowareta Otoko ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Maou-sama no Machizukur ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Isekai Tensei Soudouki ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Shiro no Koukoku Monogatari ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Jichou shinai Motoyuusha no ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Jishou! Heibon Mazoku ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Reincarnated One Doesn't Want to Cheat ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Ubau Mono Ubawareru Mono ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Nozomanu Fushi no Boukensha ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Berserk of Gluttony ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Wrong Way to use Healing Magic ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Seirei Gensouki ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Seichou Cheat de Nandemo ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Maken no Daydreamer ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Kono Sekai ga Game dato Ore dake ga Shitte Iru ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Murabito Tensei ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Dorei Shounin Shika ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Isekai Tensei no Boukensha ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Chillin Different World Life Of The EX-Brave Candidate ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Rain ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Gun-ota ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Legend ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Wizardly tower ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Black haze ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The gamer ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Grandmaster of demonic cultivation ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Isekai de Kojiin ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "I Am a Villager, What About It? ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Goodbye! Fantasy World Reincarnation ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Don's Adventure in Another World ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Isekai Cheat Survival Meshi ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Shingan no Yuusha ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "God of Martial Arts ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Holy Ancestor ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Phoenix against the World ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Spirit Blade Mountain ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "A Returner's Magic Should Be Special ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Martial Movement Upheaval ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Battle Through The Heavens ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Divine Throne ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Soul Land I ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Star Martial God Technique ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Soul Land II ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "I Shall Seal the Heavens ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Attack On Titan ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Lang Huan Library ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Supreme Demon ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "Legend of Phoenix ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "The Quintessential Quintuplets ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "114: All Heavenly Days ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "115: Dragon's Symbol of the King's Road Under the Sky ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "116: Stellar Transformations ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "117: Lord Xue Ying ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "118: Apotheosis ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "119: The Scholar's Reincarnation ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "120: Eternal Reverence ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "121: Battle Through The Heavens ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "122: Chaotic Sword God ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "123: The Mythical Realm ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "124: Transcending The Nine Heavens ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "125: Yuan Zun ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "126: The Great Ruler ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "127: Desolate Era ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "128: The Heaven's List ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "129: I Shall Seal the Heavens ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "130: Ultimate Scheming System ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "131: Renegade Immortal ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "132: The Portal of Wonderland ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "1: Death March to the Parallel World Rhapsody",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/18/2019) : ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "2: World Teacher: Isekaishiki Kyouiku Agent",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/18/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/19/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/21/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "3: The villagers of level 999",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/19/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "4: Evil Dragon Reincarnation",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "5: Re:Monster",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/20/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/23/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "6: I've Been Killing Slimes for 300 Years",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "7: Arafoo Kenja no Isekai Seikatsu Nikki",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/5/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "8: World Customize Creator",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "9: The Reincarnated Vampire Wants an Afternoon Nap",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/22/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/25/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "10: The New Gate",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/13/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "11: Nidome no Jinsei wo Isekai de",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/24/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "12: A Wild Last Boss Appeared!",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "13: I Said Make My Abilities Average!",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/24/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "14: Kuro no Souzou Shoukanshi",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/26/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/3/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "15: Shikkaku Mon no Saikyou Kenja",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "16: Isekai Cheat Magician",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "17: Skeleton Knight in Another World",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "18: Tensei Kenja no Isekai Raifu",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/27/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "19: Kenja no Mago",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/28/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/29/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (1/30/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "20: She Professed as Sage's Pupil",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "21: So I'm a Spider, So What?",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "*-22: Zero kara Hajimeru Dorei",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "23: Hachi-nan tte, Sore wa Nai deshou!",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "24: Mushoku Tensei: Jobless Reincarnation",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/1/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/1/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "25: From Commonplace to World's Strongest",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/14/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "26: Yuusha Yonin ni Makikomareta Unique Cheat",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "27: Moon-led Journey Across Another World",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/2/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "28: The Different World Magic Is Too Behind!",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "29: Tsuyokute New Saga",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "30: The Mage Will Master Magic Efficiently in his Second Life",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "31: Farming Life in Another World",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/4/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/4/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "32: I applied as a swordsman, but my magic aptitude is 9999?!",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "33: Makikomarete Isekai Teni suru Yatsu wa, Taitei Cheat",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "34: The Dungeon Seeker",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "35: Ultimate Antihero",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/6/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "36: Tensei Shitara Ken Deshita",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "37: Tensei Shi Chatta Yo",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/10/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "38: Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "39: Hiraheishi wa Kako wo Yumemiru",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "40: Yankee Wa Isekai De Seirei Ni Aisaremasu",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/7/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "41: Tales of Demons and Gods",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/2/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (11/7/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (12/7/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (13/7/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (14/7/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "42: Ore no Ie ga Maryoku Spot datta Ken",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "43: Butsuri-san de Musou shitetara Motemote ni Narimashita",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/8/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "44: Magi Craft Meister",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "45: Isekai ni Tobasareta Ossan wa Doko e Iku?",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "46: Tensei Kizoku no Isekai",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/9/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "47: it Seems the Strongest Job is Not Hero nor Sage, but Inspector",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "48: Archenemy & Hero - Maoyuu Maou Yuusha ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "49: The Legendary Moonlight Sculptor",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "50: Douyara Watashi No Karada Wa",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "51: Accomplishments of the Duke\u2019s Daughter",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/11/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "52: Maou ni Natta node,",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "53: Sayounara Ryuusei",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "54: Kuma Kuma Kuma Bear",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/12/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "55: Saikyou no Shuzoku ga Ningen Datta Ken",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "56: The Greatest Magicmaster's Retirement Plan",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "57: Isekai Meikyuu de Harem wo",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/21/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "58: Tanaka The Wizard",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "59: My Status as an Assassin Obviously Exceeds the Brave's",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "60: The Simple-Looking Sword Saint is Nevertheless the Strongest",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "61: The Death Mage Who Doesn't Want a Fourth Time",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "62: Kuro no Shoukanshi",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "63: Hakoniwa Oukoku",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "64: Kamitachi ni Hirowareta Otoko",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "65: Maou-sama no Machizukur",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "66: Isekai Tensei Soudouki",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/15/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "67: Shiro no Koukoku Monogatari",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "68: Jichou shinai Motoyuusha no",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "69: Jishou! Heibon Mazoku",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "70: The Reincarnated One Doesn't Want to Cheat",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "71: Ubau Mono Ubawareru Mono",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "72: Nozomanu Fushi no Boukensha",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "73: Berserk of Gluttony",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "74: The Wrong Way to use Healing Magic",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/16/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "75: Seirei Gensouki",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (x/x/xxxx): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (2/20/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "76: Seichou Cheat de Nandemo",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "77: Maken no Daydreamer",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/11/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "78:",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "79: Kono Sekai ga Game dato Ore dake ga Shitte Iru",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "80: Murabito Tensei",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "81: Dorei Shounin Shika",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/15/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "82: Isekai Tensei no Boukensha",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "83: Chillin Different World Life Of The EX-Brave Candidate",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "84: Rain",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/17/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "85: Gun-ota",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "86: Legend",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/20/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "87: Wizardly tower",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/21/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "88: Black haze",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/22/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "89: The gamer",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "90: Grandmaster of demonic cultivation",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/23/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "91: Isekai de Kojiin",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "92: I Am a Villager, What About It?",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/12/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (3/25/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "93: Goodbye! Fantasy World Reincarnation",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/2/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "94: Don's Adventure in Another World",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/15/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/16/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/21/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/22/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "95: Isekai Cheat Survival Meshi",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/17/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "96: Shingan no Yuusha",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/18/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "97: God of Martial Arts",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/20/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "98: Holy Ancestor",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "99 Phoenix against the World",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "100: Spirit Blade Mountain",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "101: A Returner's Magic Should Be Special",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "102: Martial Movement Upheaval",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/23/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/24/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "103: Battle Through The Heavens",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/25/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "104: Divine Throne",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/26/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/28/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/29/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/30/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "105: Soul Land I",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "106: Star Martial God Technique",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (4/27/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "107: Soul Land I",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (7/18/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "108: I Shall Seal the Heavens",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (5/1/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "109: Attack On Titan",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (5/24/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "110: Lang Huan Library",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (12/6/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (13/6/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (14/6/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "111: Supreme Demon",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/15/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "112: Legend of Phoenix",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/18/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/19/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "113: The Quintessential Quintuplets",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "114: All Heavenly Days",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "115: Dragon's Symbol of the King's Road Under the Sky",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/20/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "116: Stellar Transformations",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "117: Lord Xue Ying",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/22/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "118: Apotheosis",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/23/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/24/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/25/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (7/16/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "119: The Scholar's Reincarnation",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "   (6/26/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "120: Eternal Reverence",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (6/28/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "121: Battle Through The Heavens",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (6/30/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/1/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/2/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/3/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "122: Chaotic Sword God",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/4/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "123: The Mythical Realm",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (x/x/xxxx): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/5/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/6/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "124: Transcending The Nine Heavens",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/7/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "125: Yuan Zun",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "126: The Great Ruler",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (6/xx/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/8/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/9/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "127: Desolate Era",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/10/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "128: The Heaven's List",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/14/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/15/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "129: I Shall Seal the Heavens",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (6/xx/xxxx): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/17/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "130 Ultimate Scheming System",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "    (7/18/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "131: Renegade Immortal",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "     (7/18/2019): ",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "132: The Portal of Wonderland",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "*",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "{x} --> the group before",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "**(forgot to add {x})",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "*-",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "*78 - orphan",
+            "rating": 0,
+            "genres": []
+        },
+        {
+            "name": "1: chivalry of a failed knight ",
+            "rating": 0,
+            "genres": []
+        }
+    ]
+}

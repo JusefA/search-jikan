@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "search jikan", "search jikan\search jikan.pyproj", "{86DF53D0-0859-4FD1-99DA-2A22AE3DF635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DF53D0-0859-4FD1-99DA-2A22AE3DF635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DF53D0-0859-4FD1-99DA-2A22AE3DF635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A70237F5-132F-4FF3-BE7F-9F482D4EFE11}
+	EndGlobalSection
+EndGlobal
